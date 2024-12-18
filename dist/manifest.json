@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "SteamPeek",
+  "version": "1.0.0",
+  "description": "Quickly look up information about games you find online - no new tabs",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "options_page": "options.html",
+  "web_accessible_resources": [
+    {
+      "matches": [],
+      "resources": [
+        "about.html"
+      ],
+      "use_dynamic_url": false
+    }
+  ],
+  "host_permissions": [
+    "https://youtube.com/*",
+    "https://steampeekbackend.onrender.com/*"
+  ],
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "icons": {
+    "16": "public/icons/logo16.png",
+    "32": "public/icons/logo32.png",
+    "48": "public/icons/logo48.png",
+    "128": "public/icons/logo128.png"
+  }
+}
