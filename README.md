@@ -28,9 +28,11 @@ Open SteamPeek from the extension bar and type into the search field to get resu
 
 ## SmartSearch
 
-On supported websites and contexts, open SteamPeek from the extension bar to automatically begin a search based on
+On supported websites and contexts, open SteamPeek from the extension bar to automatically begin a search based on the content of the page.
 
 ![SteamPeek Screenshot 2](./resources/Screenshot%202_%20Smart%20Search.png)
+
+Currently available on Youtube with support for more sites to come in the future!
 
 # ℹ Available sources of information
 
@@ -48,6 +50,8 @@ On supported websites and contexts, open SteamPeek from the extension bar to aut
 With more to come in the future!
 
 # ⚙ Usage
+> [!CAUTION]
+> **Before Proceeding**: Enabling developer mode to load unpacked extensions can be dangerous since Chrome seems to be more lax on security. SteamPeek will only ever do what it needs to fulfill its sole intended purpose but please be aware of the inherent risks.
 
 -   Get the latest version from the [releases](https://github.com/jayfuku/SteamPeek-Public/releases) available in the repo and unzip `dist.zip` or pull `/dist/` directly from a commit.
 -   Navigate to `chrome://extensions/` through the address bar or through Chrome's setting menu.
@@ -59,7 +63,6 @@ With more to come in the future!
 -   📌 Pin the extension for easy access
 -   Click on the <img src="./resources/logo128.png" width="16" height="16"> logo to open the popup
 -   Either perform a manual search through the field or open SteamPeek on a supported page to get automatic results.
--
 
 # 💡 How it Works
 
@@ -73,8 +76,8 @@ I can't reveal too much more, sorry!
 
 When you open SteamPeek on a supported page, it parses the HTML of that page in order to extract the name of the game that is being shown. SteamPeek will then automatically begin a search for that game for you.
 
-# 📝Notes
-
-1. Steampeek is intended for use with games currently available on the Steam game marketplace. You may try other games but your mileage will vary.
-2. If you experience slowdowns, please try waiting or closing and re-opening the extension. This is caused by the backend being slow due to budgetary issues.
-3. SteamPeek is independently owned and operated and is not affiliated with, endorsed by, or associated with Valve Corporation, Steam, ProtonDB, IGDB, any individual games, their publishers, their developers, or any other platforms mentioned. All trademarks, logos, and intellectual property displayed are the property of their respective owners.
+# 📝Notes and Disclaimers
+1.
+2. Steampeek is intended for use with games currently available on the Steam game marketplace. You may try other games but your mileage will vary.
+3. If you experience slowdowns, please try waiting or closing and re-opening the extension. This is caused by the backend being slow due to budgetary issues.
+4. SteamPeek is independently owned and operated and is not affiliated with, endorsed by, or associated with Valve Corporation, Steam, ProtonDB, IGDB, any individual games, their publishers, their developers, or any other platforms mentioned. All trademarks, logos, and intellectual property displayed are the property of their respective owners.
