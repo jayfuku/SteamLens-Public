@@ -77,7 +77,6 @@ I can't reveal too much more, sorry!
 When you open SteamPeek on a supported page, it parses the HTML of that page in order to extract the name of the game that is being shown. SteamPeek will then automatically begin a search for that game for you.
 
 # 📝Notes and Disclaimers
-1.
-2. Steampeek is intended for use with games currently available on the Steam game marketplace. You may try other games but your mileage will vary.
-3. If you experience slowdowns, please try waiting or closing and re-opening the extension. This is caused by the backend being slow due to budgetary issues.
-4. SteamPeek is independently owned and operated and is not affiliated with, endorsed by, or associated with Valve Corporation, Steam, ProtonDB, IGDB, any individual games, their publishers, their developers, or any other platforms mentioned. All trademarks, logos, and intellectual property displayed are the property of their respective owners.
+1. Steampeek is intended for use with games currently available on the Steam game marketplace. You may try other games but your mileage will vary.
+2. If you experience slowdowns, please try waiting or closing and re-opening the extension. This is caused by the backend being slow due to budgetary issues.
+3. SteamPeek is independently owned and operated and is not affiliated with, endorsed by, or associated with Valve Corporation, Steam, ProtonDB, IGDB, any individual games, their publishers, their developers, or any other platforms mentioned. All trademarks, logos, and intellectual property displayed are the property of their respective owners.
