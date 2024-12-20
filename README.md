@@ -16,7 +16,7 @@ SteamPeek is a Chrome extension designed to help streamline the experience of se
 
 No new tabs, no hassle.
 
-SteamPeek is currently pending review for publishing on the Chrome Web Store but in the meantime here's a version you can try out now.
+https://chrome.google.com/webstore/detail/dlkmkiiccmmfjoodngomfndmfilhblhe
 
 # 🌟Features
 
@@ -49,9 +49,15 @@ Currently available on Youtube with support for more sites to come in the future
 
 With more to come in the future!
 
-# ⚙ Usage
+# ⚙ Installation & Usage
+
+## Install From Chome Web Store
+- Head to the [Chrome Web Store listing for SteamPeek](https://chrome.google.com/webstore/detail/dlkmkiiccmmfjoodngomfndmfilhblhe)
+- Hit the "Add to Chrome" button
+
+## Install Unpacked
 > [!CAUTION]
-> **Before Proceeding**: Enabling developer mode to load unpacked extensions can be dangerous since Chrome seems to be more lax on security. SteamPeek will only ever do what it needs to fulfill its sole intended purpose but please be aware of the inherent risks.
+> **Before Proceeding**: Enabling developer mode to load unpacked extensions can be dangerous since Chrome seems to be more lax on security. SteamPeek will only ever do what it needs to fulfill its sole intended purpose but please be aware of the inherent risks. Install directly from the official [Chrome Web Store listing](https://chrome.google.com/webstore/detail/dlkmkiiccmmfjoodngomfndmfilhblhe) when possible
 
 -   Get the latest version from the [releases](https://github.com/jayfuku/SteamPeek-Public/releases) available in the repo and unzip `dist.zip` or pull `/dist/` directly from a commit.
 -   Navigate to `chrome://extensions/` through the address bar or through Chrome's setting menu.
@@ -60,6 +66,10 @@ With more to come in the future!
     ![Enable developer mode](./resources/Enable%20developer%20mode.png)
 -   Select `Load Unpacked` and, when prompted, select the `/dist/` folder you downloaded earlier.
     ![Load Unpacked](./resources/Load%20Unpacked.png)
+
+
+
+## Usage Instructions
 -   📌 Pin the extension for easy access
 -   Click on the <img src="./resources/logo128.png" width="16" height="16"> logo to open the popup
 -   Either perform a manual search through the field or open SteamPeek on a supported page to get automatic results.
