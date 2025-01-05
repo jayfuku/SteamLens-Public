@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "SteamPeek",
-  "version": "1.0.0",
+  "name": "SteamLens",
+  "version": "1.0.1",
   "description": "Quickly look up information about games you find online - no new tabs",
   "action": {
     "default_popup": "index.html"
